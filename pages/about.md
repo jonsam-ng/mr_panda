@@ -10,14 +10,13 @@ comment: true
 
 ---
 
-- 👋 Hi, I'm [ your name ]
-- 🚀️ I'm currently working in [ your position ]
-- 📮️ How to reach me: [your Github](https://github.com)
-- 📖 My motto: [ your motto ]
+- 👋 Hi, I'm [jonsam](https://portfolio.jonsam.site).
+- 🚀️ I'm currently working in Shanghai, China.
+- 📮️ How to reach me: [My Github](https://github.com/jonsam-ng).
 
 ---
 
-> [!tip]
+<!-- > [!tip]
 > 在以下内容当中，挑选您熟悉的 `icon` 进行展示
 
 ### 后端
@@ -108,4 +107,4 @@ comment: true
   <img src="https://img.shields.io/badge/-PyCharm-C0C0C0?logo=PyCharm&logoColor=000" alt="PyCharm" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Android%20Studio-C0C0C0?logo=Android-Studio&logoColor=3DDC84" alt="Android Studio" style="display: inline-block;" />&nbsp;
 </p>
-
+ -->

@@ -1,5 +1,5 @@
 ---
-date: 2022-01-01s
+date: 2022-01-01
 title: Js Tricks 系列 (1) - Mr. Panda
 # category: 
 # tags: 
